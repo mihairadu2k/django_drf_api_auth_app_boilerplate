@@ -160,7 +160,7 @@ LINKS:
 1. auth0: https://auth0.com/docs/quickstarts
 2. search: https://simpleisbetterthancomplex.com/tutorial/2016/11/28/how-to-filter-querysets-dynamically.html
 3. REST Serializers: https://dynamic-rest.readthedocs.io/en/latest/tutorial.html #NOT WORKING
-
+4. Boilerplate: https://github.com/gtalarico/django-vue-template
 
 BOOKS: 
 0. 	Beginning DJANGO: https://www.webforefront.com/django/
