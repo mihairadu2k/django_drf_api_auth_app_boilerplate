@@ -152,7 +152,7 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 
 
 ### Documentation:
-SWAGGER: https://django-rest-swagger.readthedocs.io/en/latest/
+OPNE API DRF: https://drf-yasg.readthedocs.io/en/stable/readme.html#installationDR
 
 ### FUTURE RESEARCH
 
