@@ -45,6 +45,15 @@ class User(AbstractBaseUser, PermissionsMixin):
 
     is_active = models.BooleanField(default=True)
     is_staff = models.BooleanField(default=False)
+       
+    # another alternative is to set permissions on the COUNTRY/AREA togheter with is_<role> 
+    # ex: is_director==True ? No area restriction : is_manager & area
+    is_director = models.BooleanField(_("Level director"),default=False) # no country or area restriction
+    is_manager = models.BooleanField(_("Level manager"),default=False) # area restriction 
+    is_sales = models.BooleanField(_("Level sales"),default=False) # country restriction
+    is_analytics = models.BooleanField(_("Level analytics"),default=False) # country and area restriction
+    is_product = models.BooleanField(_("Level product"),default=False) # no restriction
+    is_logistics = models.BooleanField(_("Level logistics"),default=False) # area restriction
 
     objects = manager.UserProfileManager()
     USERNAME_FIELD = 'email'
