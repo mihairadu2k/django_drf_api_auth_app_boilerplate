@@ -161,9 +161,10 @@ LINKS:
 2. search: https://simpleisbetterthancomplex.com/tutorial/2016/11/28/how-to-filter-querysets-dynamically.html
 3. REST Serializers: https://dynamic-rest.readthedocs.io/en/latest/tutorial.html #NOT WORKING
 4. Boilerplate: https://github.com/gtalarico/django-vue-template
-
+5. TastyPie: https://django-tastypie.readthedocs.io/en/latest/tutorial.html#configuration
 BOOKS: 
-0. 	Beginning DJANGO: https://www.webforefront.com/django/
+
+0.  Beginning DJANGO: https://www.webforefront.com/django/
 1.  Django ORM Cookbook: https://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html
 2.  Django DRF Cookbook: https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/
 3.  Django Multiple Tenants Cookbook: https://books.agiliq.com/projects/django-multi-tenant/en/latest/index.html
