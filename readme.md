@@ -156,7 +156,7 @@ OPNE API DRF: https://drf-yasg.readthedocs.io/en/stable/readme.html#installation
 
 ### FUTURE RESEARCH
 
-LINKS:
+#### LINKS:
 
 1. auth0: https://auth0.com/docs/quickstarts
 2. search: https://simpleisbetterthancomplex.com/tutorial/2016/11/28/how-to-filter-querysets-dynamically.html
@@ -164,8 +164,7 @@ LINKS:
 4. Boilerplate: https://github.com/gtalarico/django-vue-template
 5. TastyPie: https://django-tastypie.readthedocs.io/en/latest/tutorial.html#configuration
 
-
-BOOKS: 
+#### BOOKS: 
 
 0.  Beginning DJANGO: https://www.webforefront.com/django/
 1.  Django ORM Cookbook: https://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html
