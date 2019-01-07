@@ -176,7 +176,8 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing
 8. [Static files in Django]: 
 	* https://docs.djangoproject.com/en/2.1/howto/static-files/	
-	
+9. [DRF Multile Models in Same View]:
+	* https://github.com/MattBroach/DjangoRestMultipleModels
 
 #### BOOKS: 
 
