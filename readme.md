@@ -152,7 +152,8 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 
 
 ### Documentation:
-OPNE API DRF: https://drf-yasg.readthedocs.io/en/stable/readme.html#installationDR
+[OPNE API DRF]: 
+	* https://drf-yasg.readthedocs.io/en/stable/readme.html#installationDR
 
 ### FUTURE RESEARCH
 
@@ -175,11 +176,17 @@ OPNE API DRF: https://drf-yasg.readthedocs.io/en/stable/readme.html#installation
 	* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing
 8. [Static files in Django]: 
 	* https://docs.djangoproject.com/en/2.1/howto/static-files/	
+	
+
 #### BOOKS: 
 
-0.  [Beginning DJANGO]: https://www.webforefront.com/django/
-1.  Django ORM Cookbook: https://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html
-2.  Django DRF Cookbook: https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/
-3.  Django Multiple Tenants Cookbook: https://books.agiliq.com/projects/django-multi-tenant/en/latest/index.html
+0.  [Beginning DJANGO]: 
+	* https://www.webforefront.com/django/
+1.  [Django ORM Cookbook]: 
+	* https://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html
+2.  [Django DRF Cookbook]: 
+	* https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/
+3.  [Django Multiple Tenants Cookbook]: 
+	* https://books.agiliq.com/projects/django-multi-tenant/en/latest/index.html
 
 		
