@@ -189,5 +189,6 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/
 3.  [Django Multiple Tenants Cookbook]: 
 	* https://books.agiliq.com/projects/django-multi-tenant/en/latest/index.html
-
+4. [Python tips and tricks]:
+	* http://book.pythontips.com/en/latest/args_and_kwargs.html
 		
