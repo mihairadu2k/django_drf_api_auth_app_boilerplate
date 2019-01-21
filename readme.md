@@ -178,7 +178,9 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://docs.djangoproject.com/en/2.1/howto/static-files/	
 9. [DRF Multile Models in Same View]:
 	* https://github.com/MattBroach/DjangoRestMultipleModels
-
+10. [Interesting approach of JWT Logout MUST SEE]:
+	* https://tag1consulting.com/blog/building-api-django-20-part-i
+	
 #### BOOKS: 
 
 0.  [Beginning DJANGO]: 
