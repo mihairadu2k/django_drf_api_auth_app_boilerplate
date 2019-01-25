@@ -182,6 +182,8 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://tag1consulting.com/blog/building-api-django-20-part-i
 11. [PACKAGES]:
 	* https://djangopackages.org/
+12. [DJ Pandas]:
+	* https://django-pandas.readthedocs.io/en/stable/
 #### BOOKS: 
 
 0.  [Beginning DJANGO]: 
