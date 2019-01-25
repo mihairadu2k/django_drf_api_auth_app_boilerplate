@@ -180,7 +180,8 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://github.com/MattBroach/DjangoRestMultipleModels
 10. [Interesting approach of JWT Logout MUST SEE]:
 	* https://tag1consulting.com/blog/building-api-django-20-part-i
-	
+11. [PACKAGES]:
+	* https://djangopackages.org/
 #### BOOKS: 
 
 0.  [Beginning DJANGO]: 
