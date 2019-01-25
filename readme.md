@@ -184,6 +184,8 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://djangopackages.org/
 12. [DJ Pandas]:
 	* https://django-pandas.readthedocs.io/en/stable/
+13. [Multiple Models]:
+	* https://github.com/MattBroach/DjangoRestMultipleModels
 #### BOOKS: 
 
 0.  [Beginning DJANGO]: 
