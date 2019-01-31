@@ -13,8 +13,9 @@ $ (src) pip install -r requirement.txt
 
   '--- if not existing ---'
 
-$ pip install pytz Django django-cors-headers django-countries django-filter django-templated-mail djangorestframework PyJWT djangorestframework-jwt djoser Markdown Pillow python-dotenv
+$ pip install pytz Django django-cors-headers django-countries django-filter django-templated-mail djangorestframework PyJWT djoser Markdown Pillow python-dotenv
 
+#!! JWT is changed to the Simple JWT
   '--- for MSSQL --- '
 
 $ pip install pyodbc django-pyodbc-azure
@@ -36,8 +37,8 @@ a) adding the apps to installed apps array:
 - CORS: https://github.com/OttoYiu/django-cors-headers
 - DRF: https://www.django-rest-framework.org/
 - AUTH - DJOSER: https://djoser.readthedocs.io/en/stable/
-- AUTH - DRF JWT: http://getblimp.github.io/django-rest-framework-jwt/
-
+- AUTH - DRF Simple JWT:https://github.com/davesque/django-rest-framework-simplejwt
+- DJANGO - GUARDIAN: https://django-guardian.readthedocs.io/en/stable/installation.html
 ```python
 import datetime
 INSTALLED_APPS = [
