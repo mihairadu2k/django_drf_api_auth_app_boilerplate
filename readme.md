@@ -206,3 +206,5 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 4. [Python tips and tricks]:
 	* http://book.pythontips.com/en/latest/args_and_kwargs.html
 		
+### RECURENT PROBLEMS:
+1. [in the create methods (CreateAPIView) requests.POST and requests.GET are immutable. Here is a trick to make them mutable]: https://stackoverflow.com/questions/44717442/this-querydict-instance-is-immutable
