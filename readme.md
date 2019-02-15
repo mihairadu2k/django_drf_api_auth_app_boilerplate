@@ -193,6 +193,9 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://django-pandas.readthedocs.io/en/stable/
 13. [Multiple Models]:
 	* https://github.com/MattBroach/DjangoRestMultipleModels
+14. [Django and Vue - WebpackLoader]:
+	* https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a
+
 #### BOOKS: 
 
 0.  [Beginning DJANGO]: 
@@ -207,4 +210,6 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* http://book.pythontips.com/en/latest/args_and_kwargs.html
 		
 ### RECURENT PROBLEMS:
-1. [in the create methods (CreateAPIView) requests.POST and requests.GET are immutable. Here is a trick to make them mutable]: https://stackoverflow.com/questions/44717442/this-querydict-instance-is-immutable
+1. [in the create methods (CreateAPIView) requests.POST and requests.GET are immutable. Here is a trick to make them mutable]: 
+	* https://stackoverflow.com/questions/44717442/this-querydict-instance-is-immutable
+
