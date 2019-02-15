@@ -195,7 +195,8 @@ AUTH_USER_MODEL = '<app containing the user profile>.<User model name>'
 	* https://github.com/MattBroach/DjangoRestMultipleModels
 14. [Django and Vue - WebpackLoader]:
 	* https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a
-
+15. [REST PERMISSIONS]:
+	*https://github.com/dbkaplan/dry-rest-permissions
 #### BOOKS: 
 
 0.  [Beginning DJANGO]: 
